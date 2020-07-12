@@ -1,0 +1,5 @@
+#!/bin/sh
+
+pwd
+date +"%m-%d-%Y"+"%T"
+echo $PATH
